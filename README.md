@@ -15,3 +15,5 @@ Learn to create pull request on github
 5. ZeemZach  <zeemzach@gmail.com>
 
 6. Devika Olkar <olkardevika30@gmail.com>
+
+7. Jayesh Ghosh <jayeshghosh30@gmail.com>
