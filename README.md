@@ -10,4 +10,6 @@ Learn to create pull request on github
 
 3. Anupam Yadav  <anup2580@gmail.com>
 
-4. ZeemZach  <zeemzach@gmail.com>
+4. Prachi Nimase <prachi@gmail.com>
+
+5. ZeemZach  <zeemzach@gmail.com>
