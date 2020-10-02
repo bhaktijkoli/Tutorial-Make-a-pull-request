@@ -9,3 +9,5 @@ Learn to create pull request on github
 2.Parihar Prahalad <pariharprahalad26@gmail.com>
 
 3. Anupam Yadav  <anup2580@gmail.com>
+
+4. Devika Olkar <olkardevika30@gmail.com>
