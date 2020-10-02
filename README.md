@@ -13,3 +13,5 @@ Learn to create pull request on github
 4. Prachi Nimase <prachi@gmail.com>
 
 5. ZeemZach  <zeemzach@gmail.com>
+
+6. Devika Olkar <olkardevika30@gmail.com>
